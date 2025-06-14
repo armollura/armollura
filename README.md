@@ -1,5 +1,6 @@
 
-
+### About Me
+Seasoned project management professional with 20 years of expertise in Supply Chain, ERP, and CRM implementation. Driving efficiency, innovation, and strategic execution to deliver transformative business solutions."
 <!--
 **armollura/armollura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
